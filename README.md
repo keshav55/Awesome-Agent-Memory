@@ -462,7 +462,7 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       ![Star](https://img.shields.io/github/stars/atrislabs/atris.svg?style=social&label=Star)
       [[code](https://github.com/atrislabs/atris)]
       [[blog](https://atris.ai/blog/memory-for-coding-agents)]
-      _Repo-local Markdown project memory for coding agents: file:line map, linked wiki, daily logs, and tasks with proof, shared across Claude Code, Codex and Cursor._
+      _MIT project-memory CLI for coding agents with a repository-local Markdown map, linked wiki and daily logs, plus local SQLite task state with a generated TODO.md view; optional hosted workspaces at atris.ai._
 
 58. **[RetainDB](https://retaindb.com)**
       ![Star](https://img.shields.io/github/stars/RetainDB/RetainDB.svg?style=social&label=Star)
